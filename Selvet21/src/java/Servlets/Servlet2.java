@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author OMEN
+ * @author Alyta
  */
 public class Servlet2 extends HttpServlet {
 
@@ -115,7 +115,7 @@ public class Servlet2 extends HttpServlet {
      */
     @Override
     public String getServletInfo() {
-        return "Servlet que calcula la edad, pasando como parámetro la fecha de nacimiento (fecha=dd/MM/yyyy) = Rayas Batalla Luis Alejandro";
+        return "Servlet que calcula la edad, pasando como parámetro la fecha de nacimiento (fecha=dd/MM/yyyy) = Jonatan Huerta";
     }// </editor-fold>
 
     private static class Servelet2 {
